@@ -14,13 +14,13 @@
 * Version Thai : [ici](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_th-TH.md).
 * Version Française: [ici](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_fr-FR.md).
 
-## Table des Matiéres
+## Table des Matières
 
 - [Applications](#applications)
     - [Audio](#audio)
     - [Clients Discussions](#chat-clients)
-    - [Sauvegarde et récupartion de données](#data-backup-and-recovery)
-    - [Personnilation de Bureau](#desktop-customization)
+    - [Sauvegarde et récupération de données](#data-backup-and-recovery)
+    - [Personnalisation de Bureau](#desktop-customization)
     - [Développement](#development)
     - [Utilitaires E-Book](#e-book-utilities)
     - [Editeurs](#editors)
